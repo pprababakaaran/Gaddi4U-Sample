@@ -1,0 +1,208 @@
+distribution.movilizer.com
+TeamManish/1289
+
+User name: manish.bahal@honeywell.com
+Password: Z$hk2!usa
+User ID: 1297401268
+
+
+Client:
+https://demo.movilizer.com/mds/client?id=1073988503&sechash=3664dd3f174b06140dfbc757544626a617936284&ltype=5
+User ID: 1073988503
+User address : prabakaran.palanisamy@honeywell.com
+Password: 123
+
+https://movilizer.com/mds/client?id=381901285&sechash=6cfd6b74b61e17542ba5aa0dbaf10bd38c3a7713b026f0208b58008187e50114&ltype=5
+User ID: 381901285
+User address (phone/e-mail): prabakaran.palanisamy@honeywell.com
+Password: 123
+
+
+https://devtools.movilizer.com/
+
+Documentation:
+https://devtools.movilizer.com/confluence/display/DOC20/Home
+https://devtools.movilizer.com/confluence/pages/viewpage.action?spaceKey=MSS&title=Movilizer+starter+pack
+url: devtools.movilizer.com/confluence/
+login: hwsap
+password: zb6pJQ8J 
+
+Portal:
+To log in, go to: https://demo.movilizer.com/Portal/
+User name: prabakaran.palanisamy@honeywell.com
+Password: QUnEigoL
+Web Service System Id: 18050002
+Web service Password: Pmb7CnU21ye6Hg9cVlikJ4aKAzDjhs
+Movilizer JIRA:
+https://devtools.movilizer.com/jira/secure/Dashboard.jspa
+ob_ppalanisamy/Password@123
+
+teammanish/sHO63f
+
+
+prabakaran.palanisamy.hpmt@honeywell.com/honeywell
+17100002
+jtkPGbo1UetBZrfwFD7k83z91ZUEhA 
+
+karthik.a@honeywell.com/karthik123
+16720002
+iSKcby5GZ4YuJAP5nDtrX0MkRUuQ19
+
+http://www.sps-university.com
+E527753/connecting1!
+
+lets-encrypt-x3-cross-signed.cer
+
+bin\keytool -import -trustcacerts -keystore lib\security\cacerts -storepass changeit -noprompt -alias statcomrootca -file c:\lets-encrypt-x3-cross-signed.cer
+
+Git Repo
+https://acsbitbucket.honeywell.com/users/e841281/repos/psirt/browse
+https://E841281@acsbitbucket.honeywell.com/scm/~e841281/psirt.git
+
+https://acswiki.honeywell.com/display/CB/Developer+Setup%2C+Account+and+Stash+Access
+
+Movilizer Demo Portal
+https://demo.movilizer.com/Portal/login.jsp
+User id : kaushik.hazra@honeywell.com
+Password: lVOTxX2m
+System id : 15760002
+Key : plQJEgFDj6u8hkOsiHRYaSohOnyQ5p
+
+
+https://devtools.movilizer.com/confluence/display/DOC25/Text+Item+Grouping+feature
+https://devtools.movilizer.com/confluence/display/DOC24/Personal+data+form
+
+#Project#DeviceAddress
+#Project#ParticipantKey
+#Project#ParticipantName
+
+@manish.bahal@honeywell.com
+Manish Bahal
+Manish001
+
+C:\workspaces\Lucids_Workspace\.metadata\.plugins\org.eclipse.core.runtime\.settings
+com.movilizer.eclipse.plugin.prefs
+
+
+User ID: 1057737578
+User address (phone/e-mail): naveen.m@honeywell.com
+Password: egwendcfzcui1
+
+
+movilizer.com
+2300002/LdZIHeyc45Ld0TmE6B7JPuHXZhoq2Y
+
+https://movilizer.com/Portal
+manish.bahal@enterprise-it.com/manish0407
+manish.bahal@honeywell.com/skhsbbfm6g2x1
+
+https://axpwas.honeywell.com/RESTAdapter/CORP/SAPHR/TimeSheet/Submit/V1
+ID           : ZPICORPMOVI
+New Pass (AXP) : HERPhaP5AL
+
+mvn clean package -PGEN-RESOURCES
+
+https://demo.movilizer.com/MovilizerDistributionService/MovilizerOnlineV15Wsdl11.wsdl
+https://demo.movilizer.com/MovilizerDistributionService/MovilizerV15Wsdl11.wsdl
+
+https://salesreview.azurewebsites.net
+http://salesreview.azurewebsites.net/sr/
+http://salesreview.azurewebsites.net/review
+http://salesreview.azurewebsites.net/sr/report
+http://salesreview.azurewebsites.net/sr/removemovelet
+http://salesreview.azurewebsites.net/sr/createmovelet
+http://salesreview.azurewebsites.net/sr/createmoveletfor?device=PRABAKARAN.PALANISAMY@HONEYWELL.COM
+http://salesreview.azurewebsites.net/sr/assignmovelet
+http://salesreview.azurewebsites.net/sr/assignmoveletfor?device=MANISH.BAHAL@HONEYWELL.COM
+http://salesreview.azurewebsites.net/sr/assignmoveletfor?device=PRABAKARAN.PALANISAMY@HONEYWELL.COM
+http://salesreview.azurewebsites.net/sr/assignmoveletfor?device=KIRAN.BANDLA@HONEYWELL.COM
+
+http://salesreview.azurewebsites.net/sr/createusermd
+http://salesreview.azurewebsites.net/sr/createquestionmd
+
+http://localhost:8080/sr/report
+http://localhost:8080/sr/createmovelet
+http://localhost:8080/sr/createmoveletfor?device=PRABAKARAN.PALANISAMY@HONEYWELL.COM
+http://localhost:8080/sr/assignmovelet
+http://localhost:8080/sr/assignmoveletfor?device=PRABAKARAN.PALANISAMY@HONEYWELL.COM
+http://localhost:8080/sr/assignmoveletfor?device=DEBASIS.NAYAK2@HONEYWELL.COM
+http://localhost:8080/sr/survey
+http://localhost:8080/sr/surveyfor?userType=E
+http://localhost:8080/sr/uniquesurvey?userType=E
+
+
+http://localhost:8080/sr/createusermd
+http://localhost:8080/sr/createquestionmd
+
+
+https://salesreviewqa.azurewebsites.net
+
+salesreview
+salesreview@123
+
+SD_PORTAL/bFzxVb29
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\e527753\\Desktop\\SPS Coach\\salesreview_uat_users_device.csv'
+INTO TABLE salesreviewdb.device
+FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+(device_address, employee_id, name); 
+
+LOAD DATA LOCAL INFILE 'C:\\Users\\e527753\\Desktop\\SPS Coach\\Dist_SIOT_Employee.csv'
+INTO TABLE salesreviewdb.employee
+FIELDS TERMINATED BY '|'
+LINES TERMINATED BY '\n'
+(device_address, employee_id, name, @vrep_device_address, @vrep_employee_id)
+SET
+rep_device_address = nullif(@vrep_device_address,''),
+rep_employee_id = nullif(@vrep_employee_id,'');
+
+ZHR_MOVI_TS_DP_TIMESHEET_
+ZHR_MOVI_HTML_TS_V2
+
+ZHR_MOVI_TS_DP_APPR_
+ZHR_MOVI_HTML_TS_APPR
+
+SPS_COACH
+SPS_COACH_HTML
+
+Aarushi.Jain@Honeywell.com
+praba123
+
+
+https://egdwas.honeywell.com/sap/bc/ui5_ui5/ui2/ushell/shells/abap/FioriLaunchpad.html?sap-client=900&sap-language=EN
+
+
+http://127.0.0.1:7474/browser/
+neo4j/Password@123
+
+
+Production Database:
+Database Name: salesreview
+Hostname: us-cdbr-azure-central-a.cloudapp.net
+Port: 3306
+Username: b1dd5a2efb6613
+Password: 1f931f1f
+
+QA Database:
+Database Name: salesreviewqa
+Hostname: us-cdbr-azure-southcentral-f.cloudapp.net
+Port: 3306
+Username: b43d58eac36ba3
+Password: 28a650e2
+
+Production Web App Server:
+Username: SalesReview\salesreviewftp
+Password: password@123
+Hostname: ftps://waws-prod-sn1-083.ftp.azurewebsites.windows.net
+
+QA Web App Server:
+Username: SalesReviewQA\VOConnectDeploy
+Password: Password123
+Hostname: ftp://waws-prod-sn1-083.ftp.azurewebsites.windows.net
+
+spscoachqa.honeywell.com
+salesreviewqa.azurewebsites.net
+
+spscoach.honeywell.com
+salesreview.azurewebsites.net
